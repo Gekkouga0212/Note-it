@@ -1,3 +1,9 @@
+Autorzy Projektu:
+Mikołaj 157133
+Filip 157104
+Robert 157156
+Igor 157105
+
 
 Opis projektu:
 Note-it to aplikacja do zarządzania zadaniami, która umożliwia użytkownikom tworzenie, usuwanie i przeglądanie swoich zadań.
