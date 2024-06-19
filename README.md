@@ -1,4 +1,4 @@
-Note-it
+
 Opis projektu
 Note-it to aplikacja do zarządzania zadaniami, która umożliwia użytkownikom tworzenie, usuwanie i przeglądanie swoich zadań.
 Aplikacja jest podzielona na frontend i backend, co pozwala na lepszą organizację kodu i łatwiejsze zarządzanie projektem.
